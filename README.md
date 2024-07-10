@@ -1,4 +1,4 @@
-The Giphy-2.0 Project is a web application designed to mimic the core functionalities of the popular GIF sharing platform, Giphy.
+The GifZone Project is a web application designed to mimic the core functionalities of the popular GIF sharing platform, Giphy.
 Users can search for GIFs, view trending GIFs, and share their favorite GIFs with others. 
 This project serves as an educational tool to understand how modern web applications are built and how to integrate with third-party APIs.
 
